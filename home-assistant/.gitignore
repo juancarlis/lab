@@ -1,0 +1,8 @@
+# Home Assistant runtime / estado / secretos
+config/home-assistant.log*
+config/home-assistant_v2.db
+config/.storage/
+config/.cloud/
+config/deps/
+config/.HA_VERSION
+config/secrets.yaml
